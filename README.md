@@ -2,7 +2,7 @@
 
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/username/project.git
+git clone https://github.com/katyapdl/steram-vibe.git
 
 # Установить зависимости
 npm install
@@ -12,4 +12,5 @@ npm run dev
 
 # Сборка для production
 npm run build
+
 
