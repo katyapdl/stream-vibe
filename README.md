@@ -8,9 +8,10 @@ git clone https://github.com/katyapdl/steram-vibe.git
 npm install
 
 # Запуск в режиме разработки
-npm run dev
+npm start
 
 # Сборка для production
 npm run build
+
 
 
